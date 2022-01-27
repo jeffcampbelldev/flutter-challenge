@@ -27,9 +27,7 @@ class AlbumViewModel {
     return this.album.currency;
   }
 
-  bool get favourite {
-    return this.album.favourite ?? false;
-  }
+
 
 
 }
